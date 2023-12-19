@@ -1,6 +1,6 @@
 # A2
 
-# Part 3: Inferring Depth from Stereo
+# Inferring Depth from Stereo
 
 ### Objectives:
 - Given two images, we can find the depth of the image using Naive Stereo and Markov Random Field algorithm. 
